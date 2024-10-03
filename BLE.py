@@ -1,7 +1,4 @@
-# Proof-of-concept of a REPL over BLE UART.
-#
-# Tested with the Adafruit Bluefruit app on Android.
-# Set the EoL characters to \r\n.
+# Est es el codigo que configura y activa el bluetooth
 
 import bluetooth
 import io
