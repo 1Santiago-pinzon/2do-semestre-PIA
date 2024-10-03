@@ -1,4 +1,4 @@
-# Est es el codigo que configura y activa el bluetooth
+# Este es el codigo que configura y activa el bluetooth
 
 import bluetooth
 import io
