@@ -1,4 +1,3 @@
-BLE.py:
 # Proof-of-concept of a REPL over BLE UART.
 #
 # Tested with the Adafruit Bluefruit app on Android.
