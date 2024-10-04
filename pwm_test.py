@@ -1,3 +1,5 @@
+# Este codigo hace que funcionen los componentes de la casa
+
 import machine, bluetooth
 from BLE import BLEUART
 import time
